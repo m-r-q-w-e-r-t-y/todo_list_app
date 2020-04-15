@@ -1,3 +1,1 @@
-# Live List
-
-## Android App
+# Live List - ## (Android App)
